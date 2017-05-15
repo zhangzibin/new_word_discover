@@ -1,5 +1,7 @@
 # new_word_discover 
 
+基于词频、互信息和左右信息熵四个指标
+
 # Usage
 
 ```bash
